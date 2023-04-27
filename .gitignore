@@ -140,7 +140,8 @@ COLCON_IGNORE
 AMENT_IGNORE
 # @from.ROS2.gitignore.end
 
-
+# 忽略 obsidian 设置
+.obsidian
 
 # ignore 新文件后，执行以下命令
 # git rm -r --cached . && git add .
