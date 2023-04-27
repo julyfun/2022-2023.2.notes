@@ -61,6 +61,8 @@ $\Leftrightarrow$
 
 正对角线从左往右尽可能多的 1
 
-> @?: ![[Pasted image 20230316172959.png]]
+#question:
+
+> ![[Pasted image 20230316172959.png]]
 
 

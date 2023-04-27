@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "e42c43d6ff8c15a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "092f1bb65b3807fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12639f9656e6af32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "拓扑与微分/第 3 章 - 拓扑.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e90923f1185f1d75",
+    "type": "split",
+    "children": [
+      {
+        "id": "f79ad0581aa7b9db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96b066de1c6d0e7f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e0a5977d32d787f2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "035c47de9b063fb8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 232.5
+  },
+  "right": {
+    "id": "8853bf144bc98bcb",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a2b789e08bed823",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3773eadfc17a4ffc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "拓扑与微分/第 3 章 - 拓扑.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "26dd0cc070c4d2a3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "拓扑与微分/第 3 章 - 拓扑.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d20b66012aeb916a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "491c73f400b9be8b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "拓扑与微分/第 3 章 - 拓扑.md"
+              }
+            }
+          },
+          {
+            "id": "09588b117ab5cb35",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": true,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": true,
+      "daily-notes:打开/创建今天的日记": true,
+      "templates:插入模板": true,
+      "command-palette:打开命令面板": true,
+      "obsidian-advanced-slides:Show Slide Preview": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": true
+    }
+  },
+  "active": "12639f9656e6af32",
+  "lastOpenFiles": [
+    "拓扑与微分/未命名 2.md",
+    "拓扑与微分/第 3 章 - 拓扑.md",
+    "拓扑与微分/未命名.md",
+    "拓扑与微分/未命名 1.md",
+    "拓扑与微分/assets/Pasted image 20230427060706.png",
+    "波动光学/第 1 章 - 光的传播.md",
+    "波动光学/assets/Pasted image 20230426121223.png",
+    "波动光学/第 2 章 - 光的干涉.md",
+    "波动光学/第 6 章 - 光的衍射.md",
+    "波动光学/assets/Pasted image 20230426113609.png",
+    "波动光学/第 5 章 - 非单色光的干涉 干涉光谱.md",
+    "波动光学/assets/Pasted image 20230426113407.png",
+    "波动光学/assets/Pasted image 20230426113401.png",
+    "波动光学/assets/Pasted image 20230426113355.png",
+    "波动光学/assets/Pasted image 20230426113350.png",
+    "波动光学/第 4 章 - 米歇尔森干涉仪.md",
+    "波动光学/第 3 章 - 光缝干涉实验.md",
+    "波动光学/assets/Pasted image 20230426113012.png",
+    "波动光学/assets/Pasted image 20230426112742.png",
+    "波动光学/assets/Pasted image 20230426112656.png",
+    "波动光学/poly.pdf",
+    "法语 Français/词汇 vocabulaire.md",
+    "法语 Français/词组和介词.md",
+    "法语 Français/语法 grammaire.md",
+    "高等线性代数/TD - TP 8.md",
+    "法语 Français/ALTER EGO 2.pdf",
+    "高等线性代数/Chapitre 2 -.md",
+    "法语 Français/ALTER EGO + 2.pdf",
+    "高等线性代数/TD - TP 7.md",
+    "高等线性代数/TD - TP 6.md",
+    "高等线性代数/TD - TP 5.md",
+    "高等线性代数/poly.pdf",
+    "高等线性代数/课程补天.md",
+    "人工智能数学基础/TP - 7.md",
+    "人工智能数学基础/TP - 9.md",
+    "热化学/第 2 章 - 化学反应速率.md",
+    "高等线性代数/TD - TP 9.md",
+    "热化学/poly.pdf",
+    "高等线性代数/uncategorized.md",
+    "法语 Français/devoir/Entrainement.md",
+    "未命名",
+    "拓扑与微分/colle 周 4 ~ 5.md",
+    "拓扑与微分/poly.pdf",
+    "人工智能数学基础/assets",
+    "人工智能数学基础",
+    "法语 Français/devoir"
+  ]
+}

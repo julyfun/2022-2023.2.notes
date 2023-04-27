@@ -7,3 +7,183 @@
 - illustre: célèbre
 - un périple: un voyage = un parcours 长途旅行 = un ==itinéraire==
 - ressurgir: 重新出现
+
+## 23.3.27 s7.l1
+
+- être au rendez-vous: 到了
+- témoignage = on raconte ce qu'on a vécu 亲身经历
+- est au chômage = 失业
+- décrocher = 获取（工作等）
+- rater = 错过
+- le hasard fait bien les choses 风险即机遇！
+- au bout du fil; en ligne = 在打电话
+- j'ai pas le moral = 我心情不好
+- elle a insisté = 一直要求
+- entrainer = 鼓励、引诱你做某事
+- elle m'a entrainé d'aller au restau et faire..
+- ce n'est pas évident = 不简单
+- furieux = 生气
+- un bout de chou = 小孩子 - 卷心菜的一段
+- à l'heure où je vous parle = en ce moment 眼下
+- retrouvez le dicton = 看出讽刺语 
+- fraise = 草莓
+- commander une tasse de café = 点一杯咖啡
+- inculpé = 被控告
+
+## 23.4.3 s8l1
+- écologie, écologiste = 环境专家
+- conscience = 意识
+- tract = 小册子, une feuille que l'on donne aux gens dans la rue 
+- faire prendre conscience à qqn de qqc = 提高意识
+- manifester = 参加游行; 展露
+- manifeste = un texte où l'on expreime son engagement, 宣言
+- incitation = 鼓动，煽动
+- incitation à s'engager
+- constat = （情势的）评定
+- que chacun agisse = 所有人该行动啦
+- tri = 分拣
+- déchet = 废物
+- tri sélectif des déchets = 垃圾分类
+- utiliser les transport en commun
+- diversifier = 多样化
+- les sources d'énergie = 能源
+- économiser l'eau = 节约用水
+- primordial = 首要的
+- qui diminuent de jour en jour
+- il est indispensable = 不可缺少的
+- consommateurs choisissent 
+- qui respectent l'environnement 欢迎友好的
+- faire un geste = faire qqc pour qqn, ex: il faut faire des gestes concrets pour la planète!
+- familier = 熟悉的
+- scientifique = 科学的，科学工作者
+- territoire = 领土
+- impact = influence
+- à ciel ouvert = 露天的
+- un appareil = 设备，仪器
+- une bouteille = 瓶子
+- un bol = 碗
+- une brosse à dent = 牙刷 🪥
+- en plastique
+- contenu dans un emballage plastique = 在一个塑料包装里
+- pluriel = 复数的
+- Je file sous la douche = 快速地洗澡；file = 溜走
+- relier = 联系在一起
+- position veille = en train de fonctionner
+- baisser = 放下，减低高度
+- chauffeur = 司机
+- chauffage = 取暖设备
+- gaspiller = 浪费 utiliser trop de ressources
+- dépenser = 花费（时间，钱）
+- trier = 挑选
+- une pile = 电池
+- trajet = 行程
+- un petit tarjet = 小旅行
+- planter les arbres
+
+## 23.4.4 s8l2
+- interview = 采访
+- discussion = 讨论
+- émission = 广播结构
+- divertissement = 消遣娱乐
+- commentateur = 讲解员
+- chroniqueur = 专栏编辑
+- des vielles chaises = 老椅子
+- fer = 铁
+- vase = 器皿，花瓶
+- caisse = 箱子
+- arrondissement = 法国行政区
+- arrondir = 使成圆形
+- banlieue de Paris = 城市的郊区
+- entrepot = entreposer / stocker / mettre en réserve
+- règle
+- tarifaire: a. = 费率的
+- à bas prix = 非常便宜
+- stimulant = 兴奋药，咖啡
+- qui est sensible à l'écologie
+- piste = 线索，小路，声带（录音）
+- transcription = 誊抄
+- démarche = 手段
+
+## 23.4.10 s9l1
+- En campagne! Altergo.D8L3.p152
+- 讲的是一个关于公共健康的组织，它的一些运动，以及一些保持健康的方法
+---
+- compagne = 伴随
+- campagne = 乡村，战役
+- nature: qu'est-ce que c'est?
+- fonction: comment ça marche?
+- organisme = 组织
+- promouvoir = 实施，鼓励
+- prévenir = 预防
+- punir = 惩罚 on va punir les gens, 
+- répression = 镇压，平息
+- sédentaire 常坐 != nomade 游荡的
+- néfaste = très mauvais
+- dépense toi bien = 消耗卡路里
+- malbouffe = 垃圾食品; bouffe = n. 吃
+- salé = 咸
+- sucré
+- En voiture, Simon = 出发了
+- maladie cardio-vasculaire 心血管疾病
+- tabac = 烟草
+- protection maternelle et infantile 母婴的保护
+- alcool = 酒精
+- maladies infectieuse = 传染病
+- empêche = 阻止
+- mise en garde = 警告，不要做
+
+## 23.4.17 s10.l1
+- école primaire = 小学
+- collège = 初中
+- lycée = 高中
+- camembert = 饼状图
+- doctorat = 博士学位
+- gestion = 管理，经营 [ʒεstjɔ̃] gestion du personnel
+- au-delà = 在外边
+- licence = 学士学位
+- acceptation = 接受
+- accès 入口
+- intégré = 综合的
+- **épreuve** = 试验，考试
+- **rédaction** = 写作文，来自 rediger = 撰写，编写
+- enseigner = 教
+- annales = 年鉴，年报
+- vous **renseigner** sur une affaire = 打听一件事情
+- **logiciel** = 软件
+- cybersecurité = 网络安全
+- entreprenariat = 企业家协会；创业
+
+## 23.4.18 - s10.l2
+- L'insertion 
+- secteur d'activité des diplomes de la promo 2021 = 2021 届毕业生行业
+- profil = 素质，条件
+- casquette = 鸭舌帽；公职
+- transition écologique = 生态转型（回收？)
+- cursus = 课程
+- approfondir une spécialité
+
+## 23.4.25 s11.l1
+- 主题：工程师所需的品质
+---
+- fiabilité = 可靠性
+- méthodique = 有条理的
+- optimisation = 优化
+- ténacité = 顽强
+- adaptabilité = 环境适应性
+- flexibilité = 灵活性
+- patience = 耐心
+- minutie [minysi] = 细心
+- créativité
+- conception = 理解力，构思
+- suivre des cours = 遵循，理解课程
+- autodiscipline [otodisiplin] = 自律性
+- gestion du temps = 时间管理
+- endurance = 耐劳
+- durable = 长期的 dévéloppement durable 
+- interdisciplinaire = 跨学科的
+- discipline = 学科 contenant beaucoup de discipline
+- génie = 天资，天才，工程学
+- raffinage = 精炼
+- glissement de terrain = 地面的滑动，山体滑坡
+- synchronisation du feux = 交通信号灯的同步
+- intervenir = 参与，干预
